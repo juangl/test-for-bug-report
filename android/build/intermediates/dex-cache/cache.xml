@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-114bd06e549296a2d0f6c620124fbb98cdfb3fd2.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/bridgefront/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41304e6de82610b114196948146c2346b36c2c5b">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-ea8ca78a7c3f2a9afc68bf21871366b4a376dedd.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-8142da4693c5132338d4f1de4bd609024ebeffcc.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-9f9041c9a6c1d2251463e7a773d6af1719ba449c.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-cf9d32b1fba0ae6a3608f034b062fd0a88493014.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-e828bbd11fb4027c75e7395ba4147e50bfab94dd.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-b56dfde77ca5610ffe86a0d8822cf5fb9c62e740.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-930f0ddafc127d002f75fb43ae69143052156e51.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-95dcf6e1dddfe356535935a4a459727cd8eaae7b.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-b9e95d4ca999c1f331ac030292919679adf6df78.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-0d80369d5d4927e699456c558f4a8aeab73bdf56.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-b6502a99387c48f7df0b1276dd318929383de432.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-c566d3c703127ff73e338a3b191bbac1913acff5.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-d8d3e74c58a6d7beb5e10a6166b72020e0b6fd89.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-9ee1142fca2dd8a125068691320ca7dde6cd0f46.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-f2a1bfda7f17b1033ce872869ca6f569fbcfd8a9.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-549a6ff73baac608aa47fcb700715847cff561e9.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-e6e27b552f0b63e723b2918a76b4b622af660bd4.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-f7545c7e6f63832f2f38fab00b79f9526cb5f0ec.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-3dde40d4bc20d41e1d3f151d7ad5d85e6f7ae771.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-e1b2fe20fc65e649399516e0aac4bd71f869386d.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-0711f051d6ca37a71568102ccb6103aa089f3ba5.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-0082620187fce01d0f401b0c31a87783d2593f10.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-0845c561e88ea221c924909f03e468247aa14aee.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-24cc719f763c9e8bdc6d5ce98ab2a7d021ef2cf0.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-2dedc89ac2b18a06369eb281dbaf3fc17813548e.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-ab204bebd5bd570d6d4c6cf9bb49e6accd148f3b.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-fc4a556bf34d9a45442456d6bb481e98e7b7f3fa.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-7b297884edb69a41f542017cbbb2efe0cb1b68eb.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-6fd05574c8d5b369c85017a3c879a0f86e709244.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-3254ed39e41fbcd09093333b7250486de7ddf4d3.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-4cd83c6340f630d771a33a8c893a2c5f16176717.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-7418c599e105319f6a7e3e3eeda0509cefb2e4ee.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-63aad84e21ca5a3212c1fdf8215fb6d0d60ad6ff.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-cc685299039f092e84dd0779daa101042ce2f84e.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-0a50ca9670de45f4396d3ca11b3d1e97eecbd5c3.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-5a984dfd46317fb4974b20882a30f1be4a4791b1.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-a2a57a4c63cd54386949f1ec7dc8568dcf2761ef.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-8d67513e7874ca4a86dbda6fc9ceaa0003f59b9c.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/bridgefront/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba594b164be16c436160e87039f1274c40763cd9">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-2ef91496467f4147949bf1aaaf21052084a4afef.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-951c75c2cde8f2d00bf879ee20bfa6f04062ba2a.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/bridgefront/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfac76cb27b19aa2d8a75a0d6e1db45cf1354b2d">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-76b15eae881b908f9eb0a52a2896f28d8168b8db.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-28de66ae9a0666bcee79f5200c0ee4cfe9fd39de.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-a887cdcace8796a9a9d95546bbab6361102f7fda.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/bridgefront/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e2cca14b1d80c6a0f964a0d7a4cc5d6150c4824">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-d0c6d3196ae6d2b9d2142abd437f45b67d45292f.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-c40c4222a28feb75f49269c7110a3127d4f4118b.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-ebe6cd6e6992ce2980fea5cd491a6d822b8bf9c8.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-0c3f797d659cb9580261f1a6b412589872005d8d.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-e3c8e69b94d9aca12dfeff00317a0d99d80582c2.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-ff23fc8c113e57cdc1833d911a189244049c21f3.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-385a3c8ee307b55868f4cd949e676996477d10bb.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-8172cb03ca155a6b71bcbbacd286826522e11a92.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-3d0f65f949ae32ba783016d8576af2ca3e80ff63.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-b23163db0c637f2759ce04847dfc8cef434104c1.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-21288060333a1251b825ece9eac6fe9aeb47db16.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-eddeb859c92a61d9a1801f04ce3bc584be25d046.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-2c6dd9d9c645ccec269d763d7add2041013c9525.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-19a02b62eb660964fe3358d754e7f40f51b70baf.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-53388cf1def8730f27ffe543122315236acf3e3b.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-ce7f689b666935b144be3206b2a0c456d597cb14.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/classes-0b3bde7857c476b42cfe00407e4636a496fc9715.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-496918f8d1543736e15028592d8388f5d47004e0.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-de179807f7fe199feb44f2992348ec65381f4bbf.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0-c5dad26935e5309605957d824abc95b4e2134e8d.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-cb9f83d7441172c14d92db484679a00be818ee2c.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0-baed36887c4d699ad92dec589160f890563d1619.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/bridgefront/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-1c67c14b2b360687286da52da7bd2dc8e233ac64.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-8947b4d5d6981c75814ace32440f1e45156fb407.jar" />
+    </item>
+    <item
+        jar="/home/juanje/js/for-bug-report/android/app/build/intermediates/exploded-aar/bridgefront/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="448347fd456d43337dd661dbcbefbf5331e4a999">
+        <dex dex="/home/juanje/js/for-bug-report/android/app/build/intermediates/pre-dexed/debug/classes-5f3b4ea91bfc7c461aa7b7cf90c0ddfb71b727d6.jar" />
+    </item>
+    <item
+        jar="/home/juanje/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/juanje/js/bridgefront/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-a756afa0b3262548afdcea2f5b83640074462f48.jar" />
+    </item>
+
+</items>
